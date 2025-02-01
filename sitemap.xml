@@ -22,6 +22,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/cotton-is-breathable/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/cotton-is-versatile/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
